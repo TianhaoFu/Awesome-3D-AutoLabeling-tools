@@ -41,3 +41,6 @@ None
 - [Segmentation - autolabeling](https://github.com/PRBonn/auto-mos)
 - [Sequence segmentation - autolabeling](https://github.com/Likarian/AutomaticLabeledLiDARSequence)
 - [Depth - autolabeling](https://github.com/TRI-ML/vidar)
+
+## Acknowlegement
+[Chaikening - zhihu](https://zhuanlan.zhihu.com/p/533907821)

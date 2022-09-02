@@ -29,12 +29,12 @@ None
 - [High-Definition Map Generation Technologies For Autonomous Driving: A Review](https://arxiv.org/abs/2206.05400)
 
 ## Blog 
-- [Bag of algorithms- Auto Labeling](https://zhuanlan.zhihu.com/p/533907821)
+- [Bag of algorithms- autolabeling](https://zhuanlan.zhihu.com/p/533907821)
 - [Tesla - autolabeling](https://zhuanlan.zhihu.com/p/466426243)
 - [Tusimple - autolabeing](https://zhuanlan.zhihu.com/p/541893317)
 
 ## Video
-- [RoboSense Inc](https://www.bilibili.com/video/BV1gK4y1x7Yh?from=search&seid=6201001844239327003&spm_id_from=333.337.0.0&vd_source=d6d7e511367717333c372785d76ae938)
+- [RoboSense Inc - autolabeling](https://www.bilibili.com/video/BV1gK4y1x7Yh?from=search&seid=6201001844239327003&spm_id_from=333.337.0.0&vd_source=d6d7e511367717333c372785d76ae938)
 
 ## Codebase
 - [Simulation - autolabeling](https://github.com/UsmanJafri/LiDAR-GTA-V)

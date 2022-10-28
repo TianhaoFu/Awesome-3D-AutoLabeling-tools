@@ -2,11 +2,11 @@
 Papers, code and datasets about deep learning data auto-labeling.
 
 ## Introduction
-In practice, the data of autonomous driving is very important, and how to get high-quality data integration efficiently and cost-effectively is the core competitiveness of autonomous driving companies.
+>In practice, the data of autonomous driving is very important, and how to get high-quality data integration efficiently and cost-effectively is the core competitiveness of autonomous driving companies.
 
-With the continuous development of autonomous driving perception technology, the requirements for annotation are getting higher and higher, and many annotation tasks are getting more and more difficult. Camera/Lidar joint labeling, 3d semantic segmentation, how to complete the automated labeling of the vector space, currently do not see any companies can do.
+>With the continuous development of autonomous driving perception technology, the requirements for annotation are getting higher and higher, and many annotation tasks are getting more and more difficult. Camera/Lidar joint labeling, 3d semantic segmentation, how to complete the automated labeling of the vector space, currently do not see any companies can do.
 
-Automatic labeling algorithm (auto-labeling) is actually a high-precision true value generation algorithm, can not be limited by the arithmetic power of the car, and can use the full time series of data to jointly optimize the results. Because it is offline, the accuracy is as high as it can be. Such a system, in addition to automated labeling/pre-labeling, also has many other roles, such as mining the corner case, guiding the vehicle-side model training, etc.
+>Automatic labeling algorithm (auto-labeling) is actually a high-precision true value generation algorithm, can not be limited by the arithmetic power of the car, and can use the full time series of data to jointly optimize the results. Because it is offline, the accuracy is as high as it can be. Such a system, in addition to automated labeling/pre-labeling, also has many other roles, such as mining the corner case, guiding the vehicle-side model training, etc.
 
 Here are some resources about deep learning data auto-labeling.
 
